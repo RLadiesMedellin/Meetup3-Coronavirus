@@ -1,2 +1,2 @@
 # Meetup3-Coronavirus
-Taller de análisis de bases de datos de Coronavirus usando R
+En este repositorio se encuentran todos los archivos del taller de exploración de bases de datos del Coronavirus usando R
